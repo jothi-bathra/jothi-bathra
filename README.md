@@ -26,8 +26,6 @@
 <img alt="python" width="30px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
-
-[<code>
 <img alt="Html5" width="30px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code>
@@ -36,7 +34,6 @@
 [<code>
 <img alt="Github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
 </code>](https://github.com/)
-
 [<code>
 <img alt="Mongodb" width="26px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
 </code>](https://www.mongodb.com/)
