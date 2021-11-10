@@ -3,7 +3,7 @@
 
 ### **About Myself:**
  - 🚀 Data analytics and  Machine Learning Enthusiast.
- - 🙍🏽‍♂️ Current: Looking for Internship in May 2022.
+ - 🙍🏽‍♂️ Currently looking for Internship in May 2022.
  
 
 ### **Connect with me:**
